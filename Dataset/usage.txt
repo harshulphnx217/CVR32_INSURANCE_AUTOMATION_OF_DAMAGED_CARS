@@ -1,0 +1,6 @@
+Dataset is Divided as follows:
+
+data1a: 00-damage, 01-whole
+data2a: 00-front, 01-rear, 02-side 
+data3a: 00-minor, 01-moderate, 02-severe
+
